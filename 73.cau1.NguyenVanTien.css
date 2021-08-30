@@ -1,0 +1,21 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#style {
+    color:darkblue;
+}
+#active{
+    text-decoration: none;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+    border-radius: 4px;
+}
+#container {
+    text-align: center;
+}
+#ctn{
+   padding-bottom: 15px;
+}
